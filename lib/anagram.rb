@@ -1,6 +1,6 @@
 # Your code goes here!
 class Anagram
   
-  def initalize 
+  def initialize(anagra)
   end 
 end 
