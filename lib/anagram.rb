@@ -2,6 +2,7 @@
 class Anagram
   
   def initialize(anagram_as)
-    a
+    @anagram_as = anagram_as
+    
   end 
 end 
